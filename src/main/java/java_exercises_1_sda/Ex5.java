@@ -12,3 +12,4 @@ public class Ex5 {
         System.out.println("Max: " + max);
     }
 }
+

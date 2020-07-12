@@ -7,7 +7,7 @@ public class main {
 //        Ex1.printMultiplying(5);
 
 //        System.out.println("Ex2_:");
-//        if (Ex2_.isPrime(13)) {
+//        if (Ex2_.isPrime(7)) {
 //            System.out.println("arg is prime");
 //        } else {
 //            System.out.println("arg is not prime");
